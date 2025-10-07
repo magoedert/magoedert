@@ -59,7 +59,7 @@
 
 ## 📊 GitHub Stats
 
-![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=nightowl)
+![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=magoedert&show_icons=true&theme=nightowl)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=nightowl&hide_border=false)
 
